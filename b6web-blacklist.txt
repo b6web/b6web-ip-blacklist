@@ -1,0 +1,6 @@
+# B6 Web Black List
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+#
+177.136.68.79/24
